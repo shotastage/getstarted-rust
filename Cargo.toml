@@ -5,7 +5,7 @@ edition = "2021"
 
 [workspace]
 members = [
-    "01_hello",
+    "01_hello", "data-types",
 ]
 
 [dependencies]
